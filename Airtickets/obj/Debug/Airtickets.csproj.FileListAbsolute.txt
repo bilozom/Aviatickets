@@ -1,0 +1,16 @@
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\bin\Debug\Airtickets.exe.config
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\bin\Debug\Airtickets.exe
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\bin\Debug\Airtickets.pdb
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\obj\Debug\Airtickets.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\obj\Debug\Airtickets.MainForm.resources
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\obj\Debug\Airtickets.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\obj\Debug\Airtickets.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\obj\Debug\Airtickets.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\obj\Debug\Airtickets.exe
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\obj\Debug\Airtickets.pdb
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\obj\Debug\Airtickets.Workers.resources
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\obj\Debug\Airtickets.Autorization.resources
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\obj\Debug\Airtickets.Admin.resources
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\obj\Debug\Airtickets.Schedule.resources
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\obj\Debug\Airtickets.Search.resources
+C:\Users\Кирилл\Desktop\Airtickets\Airtickets\obj\Debug\Airtickets.Seller.resources
